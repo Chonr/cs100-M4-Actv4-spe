@@ -1,0 +1,1 @@
+Hello Gitvim .git/config This is my 1st file.
